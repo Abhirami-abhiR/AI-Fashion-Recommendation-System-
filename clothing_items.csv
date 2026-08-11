@@ -1,0 +1,501 @@
+item_id,category,fabric,color,style_tag,price,adaptive_features
+1,Shirt,Denim,Grey,Sport,52.03,side_seated_fit|adjustable_hem|elastic_waist|wheelchair_back_length|wide_arm_hole
+2,Shoes,Polyester-Blend,Grey,Winter,78.69,extra_wide_leg_opening|magnetic_closure|simple_texture_id|adjustable_hem
+3,T-Shirt,Cotton,Olive,Summer,64.3,side_seated_fit|removable_sleeve|simple_texture_id
+4,Skirt,Jersey Knit,Red,Winter,63.16,elastic_waist|velcro_closure
+5,Jacket,Cotton-Blend,Beige,Formal,88.91,magnetic_closure
+6,Shoes,Jersey Knit,Grey,Casual,10.72,adjustable_hem
+7,Trousers,Wool-Blend,Royal Blue,Winter,27.84,simple_texture_id|high_contrast_pattern
+8,Hoodie,Cotton,Red,Formal,114.84,seamless_interior|tagless|side_seated_fit|simple_texture_id
+9,Dress,Polyester-Blend,Maroon,Loungewear,49.46,velcro_closure|one_handed_zipper_pull|reflective_trim|seamless_interior
+10,Dress,Cotton,White,Sport,111.97,none
+11,Jacket,Linen,Navy,Summer,116.27,simple_texture_id|velcro_closure
+12,Skirt,Jersey Knit,Grey,Loungewear,103.54,simple_texture_id|extra_wide_leg_opening|prosthetic_leg_access_zip|reflective_trim|front_opening
+13,Jacket,Linen,Navy,Winter,51.13,elastic_waist
+14,Trousers,Linen,Beige,Casual,43.5,extra_wide_leg_opening|side_seated_fit|reflective_trim|wheelchair_back_length
+15,Jacket,Linen,Red,Loungewear,70.36,side_seated_fit
+16,Hoodie,Cotton,Beige,Workwear,85.96,extra_wide_leg_opening|seamless_interior|no_buttons|removable_sleeve
+17,Shirt,Cotton-Blend,Olive,Sport,18.88,extra_wide_leg_opening|wide_arm_hole
+18,Shirt,Fleece,Charcoal,Winter,118.89,removable_sleeve|seamless_interior
+19,Hoodie,Cotton,Grey,Casual,66.05,none
+20,Shoes,Cotton,Charcoal,Formal,90.97,front_opening|simple_texture_id|removable_sleeve|one_handed_zipper_pull
+21,Hoodie,Cotton-Blend,Charcoal,Formal,86.68,no_buttons|simple_texture_id|removable_sleeve
+22,Jacket,Polyester-Blend,Beige,Winter,40.88,removable_sleeve
+23,Shirt,Fleece,Royal Blue,Workwear,98.73,wide_arm_hole|front_opening|adjustable_hem
+24,Dress,Wool-Blend,White,Workwear,110.28,prosthetic_leg_access_zip|adjustable_hem|wide_arm_hole|reflective_trim
+25,Jeans,Cotton-Blend,Grey,Summer,64.17,wheelchair_back_length|elastic_waist
+26,Hoodie,Cotton-Blend,Beige,Winter,80.8,side_seated_fit|no_buttons|seamless_interior
+27,Dress,Fleece,Grey,Summer,97.13,simple_texture_id|side_seated_fit|wheelchair_back_length
+28,Jeans,Fleece,White,Summer,45.86,simple_texture_id|removable_sleeve|front_opening|velcro_closure
+29,Shirt,Jersey Knit,Maroon,Workwear,18.53,elastic_waist
+30,Nightwear,Fleece,Charcoal,Casual,12.03,simple_texture_id|no_buttons
+31,Skirt,Wool-Blend,Maroon,Loungewear,68.78,side_seated_fit|wheelchair_back_length
+32,Shoes,Cotton-Blend,Grey,Sport,74.17,extra_wide_leg_opening
+33,T-Shirt,Wool-Blend,Royal Blue,Winter,12.18,none
+34,Nightwear,Fleece,Grey,Loungewear,48.34,removable_sleeve|simple_texture_id|tagless
+35,Nightwear,Cotton,Navy,Workwear,66.49,none
+36,Trousers,Jersey Knit,White,Sport,32.17,tagless|wheelchair_back_length|seamless_interior
+37,T-Shirt,Linen,White,Winter,17.56,removable_sleeve|wheelchair_back_length
+38,Nightwear,Linen,Grey,Winter,67.51,none
+39,Nightwear,Fleece,Charcoal,Workwear,79.39,wheelchair_back_length|side_seated_fit
+40,Shoes,Cotton,Black,Casual,117.3,tagless|seamless_interior|high_contrast_pattern
+41,Jeans,Polyester-Blend,Charcoal,Winter,44.17,velcro_closure|wide_arm_hole
+42,Dress,Wool-Blend,White,Summer,38.33,magnetic_closure|elastic_waist|wheelchair_back_length
+43,Hoodie,Cotton-Blend,Black,Formal,16.79,prosthetic_leg_access_zip|wheelchair_back_length
+44,Hoodie,Polyester-Blend,Royal Blue,Loungewear,115.82,none
+45,Jacket,Jersey Knit,Beige,Loungewear,85.95,one_handed_zipper_pull|high_contrast_pattern|tagless
+46,Nightwear,Cotton-Blend,Beige,Formal,27.41,tagless|simple_texture_id
+47,T-Shirt,Linen,Royal Blue,Formal,36.03,no_buttons
+48,Shirt,Linen,Olive,Summer,88.03,tagless|adjustable_hem
+49,Jacket,Jersey Knit,White,Summer,39.35,extra_wide_leg_opening|front_opening|seamless_interior
+50,Hoodie,Cotton,Navy,Loungewear,90.64,seamless_interior|elastic_waist|no_buttons|front_opening|tagless
+51,Jeans,Denim,Charcoal,Sport,76.51,removable_sleeve|no_buttons
+52,Dress,Wool-Blend,Charcoal,Summer,35.75,velcro_closure|reflective_trim
+53,Dress,Cotton,Navy,Loungewear,92.88,elastic_waist
+54,Trousers,Linen,Beige,Summer,21.0,none
+55,Skirt,Jersey Knit,Black,Loungewear,12.56,none
+56,Dress,Cotton-Blend,Olive,Workwear,86.81,velcro_closure|one_handed_zipper_pull|simple_texture_id|wide_arm_hole
+57,Shoes,Cotton-Blend,Grey,Casual,18.96,no_buttons|wide_arm_hole
+58,Jacket,Jersey Knit,Grey,Formal,61.03,prosthetic_leg_access_zip|simple_texture_id
+59,Skirt,Cotton,Black,Casual,56.59,removable_sleeve
+60,Jacket,Wool-Blend,Maroon,Loungewear,76.98,tagless
+61,Trousers,Jersey Knit,Charcoal,Sport,13.07,tagless|removable_sleeve
+62,Skirt,Linen,Charcoal,Sport,78.1,seamless_interior
+63,Nightwear,Wool-Blend,Charcoal,Sport,103.93,removable_sleeve|reflective_trim
+64,Jacket,Cotton-Blend,Olive,Workwear,26.25,elastic_waist|magnetic_closure|simple_texture_id
+65,Dress,Cotton,Charcoal,Loungewear,79.95,none
+66,Dress,Denim,Black,Workwear,73.61,none
+67,Jeans,Cotton,Charcoal,Winter,72.45,elastic_waist|seamless_interior|prosthetic_leg_access_zip|side_seated_fit
+68,Jeans,Cotton,Royal Blue,Sport,80.05,adjustable_hem
+69,Skirt,Denim,Olive,Workwear,69.11,extra_wide_leg_opening|tagless
+70,Jeans,Jersey Knit,Royal Blue,Workwear,51.24,elastic_waist|velcro_closure|tagless|wide_arm_hole
+71,Jacket,Jersey Knit,Red,Workwear,109.4,prosthetic_leg_access_zip|high_contrast_pattern|seamless_interior|front_opening|wide_arm_hole
+72,Jeans,Denim,Red,Workwear,15.77,elastic_waist
+73,Dress,Denim,Red,Summer,10.04,none
+74,Dress,Denim,Royal Blue,Sport,84.5,none
+75,Hoodie,Jersey Knit,Maroon,Summer,43.73,none
+76,Shoes,Polyester-Blend,Olive,Summer,10.61,wide_arm_hole|wheelchair_back_length|adjustable_hem
+77,Shirt,Linen,Navy,Sport,39.57,simple_texture_id|tagless|wheelchair_back_length
+78,Hoodie,Linen,Royal Blue,Formal,86.03,none
+79,Nightwear,Linen,Grey,Casual,106.28,one_handed_zipper_pull|wide_arm_hole
+80,Nightwear,Denim,White,Casual,97.99,front_opening|reflective_trim|velcro_closure
+81,Skirt,Jersey Knit,Royal Blue,Casual,27.87,adjustable_hem
+82,Skirt,Wool-Blend,Royal Blue,Winter,98.37,tagless|magnetic_closure|seamless_interior
+83,Shirt,Cotton-Blend,Charcoal,Formal,54.21,one_handed_zipper_pull|wheelchair_back_length|high_contrast_pattern|tagless|elastic_waist
+84,Shirt,Fleece,Olive,Summer,94.96,reflective_trim
+85,Shirt,Polyester-Blend,Royal Blue,Formal,112.24,seamless_interior
+86,Shoes,Cotton-Blend,Beige,Sport,56.05,wheelchair_back_length|velcro_closure|magnetic_closure|tagless
+87,Trousers,Wool-Blend,Red,Formal,92.51,no_buttons|removable_sleeve|elastic_waist
+88,T-Shirt,Jersey Knit,Grey,Winter,109.09,none
+89,Trousers,Cotton,Beige,Summer,100.56,no_buttons|wide_arm_hole
+90,Shoes,Denim,Grey,Workwear,108.3,wheelchair_back_length
+91,Skirt,Jersey Knit,Navy,Loungewear,9.21,prosthetic_leg_access_zip
+92,Jacket,Denim,Black,Sport,18.22,adjustable_hem|seamless_interior|tagless|front_opening
+93,Jeans,Wool-Blend,Red,Sport,114.41,prosthetic_leg_access_zip
+94,Jeans,Cotton,Navy,Loungewear,72.23,wheelchair_back_length|magnetic_closure|wide_arm_hole|high_contrast_pattern|seamless_interior
+95,Skirt,Linen,Navy,Winter,58.23,wheelchair_back_length|seamless_interior
+96,Jacket,Denim,White,Formal,44.81,wheelchair_back_length
+97,Shoes,Jersey Knit,Olive,Winter,92.27,elastic_waist|tagless|no_buttons
+98,Jeans,Cotton-Blend,Maroon,Loungewear,96.44,reflective_trim|elastic_waist|one_handed_zipper_pull
+99,Nightwear,Jersey Knit,Navy,Workwear,63.38,none
+100,T-Shirt,Cotton,Maroon,Workwear,69.55,none
+101,Trousers,Jersey Knit,Maroon,Loungewear,107.42,one_handed_zipper_pull|tagless
+102,Jeans,Wool-Blend,Navy,Workwear,21.11,adjustable_hem
+103,Hoodie,Cotton,Royal Blue,Formal,93.29,none
+104,Hoodie,Cotton,Maroon,Loungewear,19.33,removable_sleeve|extra_wide_leg_opening
+105,Dress,Cotton,Olive,Sport,86.51,none
+106,Shirt,Denim,Charcoal,Casual,100.05,none
+107,T-Shirt,Cotton,Navy,Loungewear,17.11,velcro_closure|extra_wide_leg_opening|simple_texture_id
+108,Shirt,Linen,Olive,Formal,118.5,none
+109,Skirt,Jersey Knit,Olive,Loungewear,49.51,tagless
+110,Nightwear,Fleece,Beige,Casual,114.09,prosthetic_leg_access_zip|reflective_trim|side_seated_fit
+111,Shirt,Cotton,Red,Loungewear,92.38,seamless_interior|prosthetic_leg_access_zip|tagless|simple_texture_id|adjustable_hem
+112,Skirt,Polyester-Blend,White,Formal,17.35,reflective_trim
+113,Dress,Denim,Navy,Casual,70.54,no_buttons|simple_texture_id|tagless
+114,Jeans,Denim,Navy,Casual,109.51,extra_wide_leg_opening|magnetic_closure
+115,Shoes,Cotton,Royal Blue,Workwear,63.17,none
+116,Shirt,Denim,Black,Loungewear,60.49,none
+117,Hoodie,Denim,Maroon,Formal,21.31,none
+118,Shirt,Fleece,Maroon,Sport,80.71,none
+119,Jeans,Linen,Grey,Winter,73.34,front_opening|high_contrast_pattern|removable_sleeve
+120,Shirt,Fleece,Olive,Workwear,49.99,removable_sleeve|front_opening|extra_wide_leg_opening|tagless|no_buttons
+121,Shirt,Jersey Knit,Olive,Summer,105.28,elastic_waist
+122,Jacket,Polyester-Blend,Olive,Formal,115.88,removable_sleeve
+123,Dress,Polyester-Blend,Grey,Summer,116.63,none
+124,Nightwear,Wool-Blend,White,Summer,107.81,none
+125,Trousers,Wool-Blend,Black,Workwear,119.21,front_opening|wheelchair_back_length
+126,Skirt,Polyester-Blend,Maroon,Workwear,70.03,none
+127,Jacket,Cotton-Blend,Royal Blue,Summer,66.59,tagless|prosthetic_leg_access_zip|front_opening|reflective_trim|adjustable_hem
+128,Nightwear,Denim,Black,Sport,85.92,simple_texture_id|side_seated_fit
+129,T-Shirt,Denim,Charcoal,Winter,78.29,prosthetic_leg_access_zip|velcro_closure
+130,Hoodie,Denim,Beige,Sport,108.93,reflective_trim|one_handed_zipper_pull
+131,Shirt,Denim,White,Winter,39.47,none
+132,Jeans,Polyester-Blend,White,Workwear,107.71,adjustable_hem|elastic_waist|front_opening|simple_texture_id|wheelchair_back_length
+133,Skirt,Wool-Blend,Maroon,Winter,77.45,high_contrast_pattern|wheelchair_back_length
+134,Dress,Linen,Beige,Workwear,29.07,simple_texture_id
+135,T-Shirt,Wool-Blend,Beige,Formal,47.58,elastic_waist|no_buttons
+136,Skirt,Cotton,Charcoal,Summer,16.71,simple_texture_id|high_contrast_pattern
+137,Shoes,Polyester-Blend,Red,Formal,118.46,front_opening|tagless|magnetic_closure|removable_sleeve|wide_arm_hole
+138,Skirt,Denim,Royal Blue,Workwear,68.04,one_handed_zipper_pull|high_contrast_pattern|front_opening
+139,Dress,Wool-Blend,Royal Blue,Loungewear,99.15,high_contrast_pattern
+140,Trousers,Wool-Blend,Grey,Workwear,26.21,seamless_interior|simple_texture_id|reflective_trim
+141,T-Shirt,Cotton,Black,Loungewear,100.12,velcro_closure|removable_sleeve|reflective_trim|extra_wide_leg_opening
+142,Trousers,Cotton,White,Workwear,89.28,tagless|front_opening|side_seated_fit|simple_texture_id
+143,Shirt,Wool-Blend,Royal Blue,Casual,54.84,no_buttons|simple_texture_id
+144,Nightwear,Linen,Maroon,Sport,105.0,magnetic_closure|extra_wide_leg_opening|reflective_trim|elastic_waist
+145,Shirt,Polyester-Blend,Grey,Casual,10.95,none
+146,Nightwear,Fleece,White,Formal,98.78,adjustable_hem
+147,Skirt,Cotton-Blend,Beige,Loungewear,24.85,removable_sleeve|wide_arm_hole|simple_texture_id|tagless|prosthetic_leg_access_zip
+148,Jeans,Linen,Navy,Winter,50.66,no_buttons|front_opening
+149,Nightwear,Wool-Blend,Black,Winter,102.32,velcro_closure|side_seated_fit|prosthetic_leg_access_zip|one_handed_zipper_pull|no_buttons
+150,Hoodie,Polyester-Blend,Beige,Workwear,60.49,magnetic_closure|seamless_interior|side_seated_fit
+151,Shirt,Denim,White,Summer,38.62,adjustable_hem|removable_sleeve
+152,Shoes,Wool-Blend,Red,Casual,104.85,none
+153,Trousers,Jersey Knit,Black,Formal,119.97,side_seated_fit|wide_arm_hole|velcro_closure
+154,Shoes,Denim,Charcoal,Summer,70.21,tagless|prosthetic_leg_access_zip|side_seated_fit|reflective_trim|elastic_waist
+155,Trousers,Cotton-Blend,Maroon,Winter,113.81,prosthetic_leg_access_zip|high_contrast_pattern|reflective_trim
+156,Skirt,Denim,Navy,Sport,35.7,simple_texture_id|velcro_closure|adjustable_hem
+157,Shirt,Linen,Royal Blue,Loungewear,22.47,prosthetic_leg_access_zip|high_contrast_pattern
+158,Shoes,Polyester-Blend,Navy,Summer,75.89,front_opening|simple_texture_id|prosthetic_leg_access_zip|one_handed_zipper_pull|side_seated_fit
+159,Jeans,Cotton-Blend,Navy,Sport,83.23,wheelchair_back_length
+160,Trousers,Polyester-Blend,Beige,Sport,48.11,tagless|prosthetic_leg_access_zip
+161,T-Shirt,Cotton-Blend,Black,Sport,83.22,none
+162,Dress,Cotton-Blend,Grey,Casual,94.5,no_buttons|simple_texture_id
+163,Hoodie,Polyester-Blend,Navy,Casual,103.44,seamless_interior|extra_wide_leg_opening
+164,Nightwear,Cotton-Blend,Charcoal,Workwear,70.83,side_seated_fit|simple_texture_id
+165,Skirt,Polyester-Blend,Navy,Winter,53.19,high_contrast_pattern|prosthetic_leg_access_zip|magnetic_closure|tagless
+166,Nightwear,Denim,Charcoal,Workwear,11.22,none
+167,Trousers,Linen,Red,Sport,77.47,seamless_interior|prosthetic_leg_access_zip|reflective_trim
+168,Trousers,Polyester-Blend,Red,Loungewear,31.85,elastic_waist|tagless|side_seated_fit
+169,Dress,Wool-Blend,Navy,Sport,9.63,none
+170,Jeans,Wool-Blend,Charcoal,Workwear,74.07,wide_arm_hole
+171,Hoodie,Cotton-Blend,Grey,Sport,57.0,one_handed_zipper_pull
+172,Shoes,Polyester-Blend,Beige,Loungewear,47.0,magnetic_closure|prosthetic_leg_access_zip|high_contrast_pattern|extra_wide_leg_opening
+173,Shoes,Fleece,Red,Sport,95.77,high_contrast_pattern|extra_wide_leg_opening
+174,Hoodie,Jersey Knit,Grey,Loungewear,77.67,one_handed_zipper_pull
+175,Jeans,Jersey Knit,Olive,Sport,114.35,high_contrast_pattern|wheelchair_back_length|elastic_waist|removable_sleeve
+176,Skirt,Jersey Knit,Navy,Workwear,111.78,none
+177,Nightwear,Cotton,Royal Blue,Winter,36.92,one_handed_zipper_pull|seamless_interior
+178,Dress,Cotton-Blend,Olive,Winter,117.76,one_handed_zipper_pull|no_buttons
+179,Dress,Denim,Red,Winter,44.82,elastic_waist|tagless
+180,Skirt,Cotton-Blend,Royal Blue,Workwear,34.9,tagless|extra_wide_leg_opening
+181,Hoodie,Polyester-Blend,Maroon,Workwear,22.43,none
+182,Skirt,Cotton,Beige,Winter,25.01,none
+183,Nightwear,Cotton-Blend,Navy,Summer,79.78,none
+184,Jacket,Fleece,Charcoal,Casual,46.71,front_opening
+185,Shirt,Cotton-Blend,Red,Formal,61.08,prosthetic_leg_access_zip|high_contrast_pattern|extra_wide_leg_opening|velcro_closure
+186,Hoodie,Jersey Knit,Olive,Loungewear,27.3,removable_sleeve|reflective_trim|front_opening
+187,Trousers,Jersey Knit,Black,Loungewear,12.58,removable_sleeve
+188,Dress,Polyester-Blend,Navy,Casual,39.2,adjustable_hem
+189,Jacket,Linen,Beige,Loungewear,17.93,tagless
+190,Jeans,Wool-Blend,Beige,Loungewear,59.61,none
+191,Hoodie,Wool-Blend,Beige,Casual,48.8,adjustable_hem
+192,T-Shirt,Cotton,Beige,Winter,85.32,wheelchair_back_length|velcro_closure
+193,T-Shirt,Fleece,White,Workwear,97.53,none
+194,Jacket,Polyester-Blend,Royal Blue,Formal,17.16,seamless_interior|reflective_trim
+195,Skirt,Polyester-Blend,Black,Winter,111.14,prosthetic_leg_access_zip|seamless_interior|removable_sleeve|high_contrast_pattern
+196,Shoes,Denim,Royal Blue,Workwear,39.01,none
+197,Jeans,Denim,Red,Summer,91.81,extra_wide_leg_opening|prosthetic_leg_access_zip|magnetic_closure
+198,Shoes,Cotton-Blend,Maroon,Formal,31.45,side_seated_fit
+199,Jacket,Denim,Royal Blue,Casual,62.27,simple_texture_id
+200,Nightwear,Jersey Knit,Charcoal,Loungewear,49.32,wide_arm_hole|elastic_waist
+201,Jacket,Jersey Knit,Royal Blue,Workwear,91.72,prosthetic_leg_access_zip|adjustable_hem
+202,Trousers,Linen,Charcoal,Workwear,36.27,none
+203,T-Shirt,Denim,Red,Casual,108.26,side_seated_fit|tagless|high_contrast_pattern
+204,Trousers,Polyester-Blend,Olive,Workwear,67.6,seamless_interior|simple_texture_id
+205,Trousers,Polyester-Blend,Olive,Formal,58.11,none
+206,Nightwear,Fleece,Royal Blue,Sport,35.16,elastic_waist|seamless_interior
+207,Trousers,Jersey Knit,Royal Blue,Workwear,50.26,tagless
+208,Shirt,Jersey Knit,Black,Loungewear,44.07,none
+209,Jeans,Polyester-Blend,Maroon,Workwear,44.68,tagless
+210,Hoodie,Polyester-Blend,Royal Blue,Loungewear,107.74,none
+211,Trousers,Cotton-Blend,Charcoal,Casual,84.06,no_buttons|elastic_waist
+212,Dress,Denim,Maroon,Sport,63.83,front_opening|wheelchair_back_length|velcro_closure
+213,Trousers,Wool-Blend,Charcoal,Winter,68.16,none
+214,T-Shirt,Cotton-Blend,Red,Summer,91.49,elastic_waist|removable_sleeve
+215,Nightwear,Cotton,Royal Blue,Workwear,22.29,reflective_trim|simple_texture_id
+216,Skirt,Cotton-Blend,White,Sport,48.67,one_handed_zipper_pull
+217,Dress,Jersey Knit,Navy,Loungewear,71.93,velcro_closure|no_buttons
+218,Jeans,Denim,Charcoal,Winter,118.49,adjustable_hem
+219,Trousers,Fleece,White,Summer,34.57,simple_texture_id|extra_wide_leg_opening
+220,Jeans,Cotton,Charcoal,Sport,25.12,none
+221,Dress,Fleece,Beige,Winter,26.0,reflective_trim
+222,Dress,Linen,Maroon,Winter,39.93,wheelchair_back_length
+223,Trousers,Polyester-Blend,Black,Sport,108.44,adjustable_hem
+224,Trousers,Fleece,White,Formal,66.75,none
+225,Skirt,Wool-Blend,Grey,Workwear,118.03,high_contrast_pattern|front_opening
+226,Dress,Polyester-Blend,Olive,Loungewear,52.56,none
+227,Dress,Jersey Knit,Royal Blue,Loungewear,104.94,side_seated_fit|reflective_trim|prosthetic_leg_access_zip|wide_arm_hole|simple_texture_id
+228,Hoodie,Jersey Knit,Navy,Summer,36.89,high_contrast_pattern|magnetic_closure|side_seated_fit
+229,Skirt,Denim,Olive,Summer,82.89,reflective_trim
+230,Dress,Jersey Knit,Maroon,Workwear,70.36,one_handed_zipper_pull|elastic_waist|wide_arm_hole|seamless_interior
+231,Jacket,Cotton,Black,Casual,39.36,tagless|elastic_waist
+232,Trousers,Wool-Blend,Royal Blue,Casual,28.95,no_buttons|magnetic_closure|adjustable_hem
+233,Jeans,Fleece,Red,Formal,55.65,extra_wide_leg_opening
+234,Jacket,Linen,Navy,Sport,35.15,wide_arm_hole|side_seated_fit
+235,Trousers,Cotton,Olive,Winter,76.39,none
+236,Jeans,Polyester-Blend,Navy,Winter,73.1,wheelchair_back_length
+237,Shirt,Denim,Royal Blue,Casual,61.89,adjustable_hem
+238,Nightwear,Wool-Blend,Black,Casual,13.8,tagless|front_opening
+239,T-Shirt,Polyester-Blend,Grey,Loungewear,23.05,high_contrast_pattern
+240,T-Shirt,Denim,Olive,Casual,118.88,none
+241,T-Shirt,Jersey Knit,Beige,Sport,98.71,adjustable_hem
+242,Skirt,Fleece,Grey,Casual,84.33,tagless
+243,Hoodie,Jersey Knit,White,Winter,74.71,removable_sleeve|magnetic_closure|seamless_interior
+244,Shoes,Wool-Blend,White,Casual,54.13,tagless|extra_wide_leg_opening
+245,Trousers,Cotton-Blend,Charcoal,Winter,112.11,adjustable_hem
+246,Jacket,Fleece,White,Sport,116.08,prosthetic_leg_access_zip|simple_texture_id|extra_wide_leg_opening
+247,T-Shirt,Denim,Maroon,Workwear,89.86,none
+248,Nightwear,Denim,Olive,Sport,28.3,wheelchair_back_length|magnetic_closure|reflective_trim|adjustable_hem
+249,Shirt,Denim,Royal Blue,Loungewear,91.01,none
+250,Hoodie,Cotton-Blend,Maroon,Casual,102.28,adjustable_hem|front_opening
+251,Jacket,Jersey Knit,Grey,Loungewear,97.07,none
+252,Jacket,Fleece,Royal Blue,Summer,26.33,extra_wide_leg_opening
+253,Shirt,Cotton-Blend,Black,Sport,99.23,side_seated_fit
+254,Skirt,Linen,Maroon,Summer,66.58,one_handed_zipper_pull|velcro_closure|removable_sleeve
+255,Skirt,Polyester-Blend,Navy,Winter,106.25,extra_wide_leg_opening
+256,Nightwear,Fleece,Red,Casual,99.46,reflective_trim
+257,Nightwear,Denim,Grey,Workwear,50.22,wheelchair_back_length|side_seated_fit
+258,Shoes,Cotton-Blend,Red,Winter,41.75,high_contrast_pattern|prosthetic_leg_access_zip
+259,Jeans,Cotton-Blend,Olive,Casual,64.3,extra_wide_leg_opening|front_opening|velcro_closure
+260,Shoes,Cotton,Red,Winter,108.75,no_buttons
+261,T-Shirt,Cotton,Grey,Winter,68.88,seamless_interior
+262,Nightwear,Linen,Grey,Sport,77.91,magnetic_closure|seamless_interior|elastic_waist|removable_sleeve
+263,Trousers,Linen,Navy,Summer,113.26,none
+264,Skirt,Linen,Maroon,Casual,45.51,magnetic_closure|high_contrast_pattern
+265,Dress,Cotton-Blend,Royal Blue,Loungewear,96.93,none
+266,Shirt,Wool-Blend,Charcoal,Formal,67.75,removable_sleeve|simple_texture_id
+267,T-Shirt,Cotton-Blend,White,Winter,96.32,simple_texture_id|seamless_interior|wide_arm_hole|prosthetic_leg_access_zip
+268,Shirt,Cotton,Black,Formal,42.91,removable_sleeve
+269,Hoodie,Jersey Knit,Olive,Formal,91.32,velcro_closure
+270,Trousers,Cotton,Maroon,Summer,71.83,none
+271,Jeans,Polyester-Blend,Beige,Sport,106.2,extra_wide_leg_opening|front_opening|high_contrast_pattern
+272,Shoes,Jersey Knit,Navy,Workwear,99.98,side_seated_fit
+273,Shirt,Fleece,White,Summer,102.8,none
+274,Nightwear,Cotton,Olive,Casual,52.5,none
+275,Jacket,Cotton-Blend,Maroon,Loungewear,24.79,no_buttons|wheelchair_back_length|removable_sleeve
+276,Jacket,Denim,Red,Workwear,88.89,magnetic_closure
+277,Jacket,Wool-Blend,White,Winter,79.81,wheelchair_back_length|front_opening|no_buttons
+278,Shirt,Polyester-Blend,Black,Formal,68.79,reflective_trim|front_opening|tagless
+279,Jacket,Cotton,Beige,Casual,46.72,reflective_trim
+280,Dress,Cotton-Blend,White,Workwear,109.75,prosthetic_leg_access_zip
+281,Hoodie,Cotton,Grey,Winter,52.9,front_opening|extra_wide_leg_opening
+282,Shirt,Denim,Maroon,Loungewear,114.1,wide_arm_hole|side_seated_fit
+283,Hoodie,Cotton-Blend,Charcoal,Casual,73.66,simple_texture_id
+284,Skirt,Cotton-Blend,Charcoal,Workwear,76.48,removable_sleeve|tagless
+285,Shirt,Polyester-Blend,Grey,Formal,105.68,none
+286,Skirt,Jersey Knit,Beige,Loungewear,71.29,wheelchair_back_length|wide_arm_hole|high_contrast_pattern|no_buttons
+287,Jeans,Fleece,Charcoal,Casual,111.32,wide_arm_hole|front_opening|side_seated_fit
+288,Hoodie,Wool-Blend,Beige,Loungewear,25.08,tagless|adjustable_hem|seamless_interior
+289,Jeans,Wool-Blend,Red,Loungewear,75.95,adjustable_hem|simple_texture_id
+290,T-Shirt,Fleece,Red,Summer,90.48,wide_arm_hole|adjustable_hem
+291,T-Shirt,Denim,Beige,Loungewear,111.66,velcro_closure|one_handed_zipper_pull|high_contrast_pattern|side_seated_fit
+292,Dress,Linen,Grey,Casual,20.68,removable_sleeve|velcro_closure
+293,T-Shirt,Fleece,Navy,Casual,101.96,prosthetic_leg_access_zip|no_buttons|front_opening|velcro_closure|elastic_waist
+294,Shirt,Denim,Grey,Formal,111.13,none
+295,Shoes,Linen,Navy,Casual,66.11,prosthetic_leg_access_zip|simple_texture_id|side_seated_fit|wheelchair_back_length
+296,Hoodie,Fleece,Navy,Summer,52.69,side_seated_fit|one_handed_zipper_pull
+297,Jacket,Cotton-Blend,Black,Loungewear,45.54,none
+298,Skirt,Wool-Blend,Black,Loungewear,8.52,velcro_closure|seamless_interior|extra_wide_leg_opening
+299,Trousers,Jersey Knit,White,Formal,52.59,extra_wide_leg_opening
+300,Hoodie,Fleece,Black,Workwear,111.02,wide_arm_hole|reflective_trim
+301,Dress,Wool-Blend,Olive,Workwear,46.86,front_opening
+302,Dress,Polyester-Blend,Grey,Loungewear,58.65,elastic_waist|velcro_closure|side_seated_fit
+303,Nightwear,Denim,Maroon,Summer,58.67,one_handed_zipper_pull
+304,Shirt,Polyester-Blend,Beige,Loungewear,27.76,none
+305,Jacket,Jersey Knit,Olive,Sport,54.92,reflective_trim|elastic_waist
+306,Jeans,Cotton,Red,Casual,48.59,seamless_interior|magnetic_closure|high_contrast_pattern|wheelchair_back_length
+307,Jacket,Denim,Grey,Casual,78.81,elastic_waist|removable_sleeve
+308,Jeans,Denim,Red,Workwear,82.32,none
+309,Jeans,Polyester-Blend,Beige,Summer,115.64,velcro_closure
+310,Trousers,Fleece,White,Workwear,54.44,none
+311,Jacket,Jersey Knit,Charcoal,Casual,119.65,none
+312,Shoes,Denim,Royal Blue,Workwear,74.68,simple_texture_id|tagless
+313,Dress,Fleece,Royal Blue,Casual,92.0,none
+314,Shirt,Denim,Charcoal,Formal,108.58,side_seated_fit
+315,Nightwear,Wool-Blend,Black,Sport,29.36,magnetic_closure
+316,Shoes,Denim,Grey,Sport,60.87,none
+317,Shirt,Cotton,Grey,Workwear,15.36,seamless_interior|high_contrast_pattern
+318,T-Shirt,Jersey Knit,Olive,Workwear,58.77,tagless|adjustable_hem|simple_texture_id
+319,Dress,Jersey Knit,Grey,Formal,57.37,adjustable_hem|high_contrast_pattern
+320,Jacket,Fleece,Maroon,Winter,70.68,extra_wide_leg_opening|elastic_waist
+321,Jeans,Fleece,Olive,Sport,28.38,simple_texture_id
+322,Shirt,Polyester-Blend,Charcoal,Casual,113.96,wheelchair_back_length|tagless|seamless_interior|simple_texture_id
+323,Shoes,Jersey Knit,Charcoal,Formal,38.32,seamless_interior
+324,Trousers,Jersey Knit,Navy,Formal,53.78,adjustable_hem|elastic_waist
+325,Jacket,Jersey Knit,Grey,Winter,25.49,none
+326,Shirt,Linen,White,Formal,81.8,side_seated_fit|high_contrast_pattern|no_buttons
+327,T-Shirt,Jersey Knit,Red,Summer,32.86,none
+328,Shirt,Cotton,Olive,Loungewear,83.25,adjustable_hem
+329,Skirt,Fleece,Olive,Loungewear,19.66,none
+330,T-Shirt,Wool-Blend,Charcoal,Winter,28.0,prosthetic_leg_access_zip|simple_texture_id|reflective_trim
+331,T-Shirt,Cotton,Red,Casual,34.68,front_opening|seamless_interior|no_buttons
+332,Jacket,Linen,Navy,Casual,35.24,none
+333,Trousers,Cotton-Blend,Maroon,Casual,103.84,high_contrast_pattern|seamless_interior|prosthetic_leg_access_zip
+334,Skirt,Fleece,Charcoal,Loungewear,52.48,high_contrast_pattern|elastic_waist|magnetic_closure
+335,Jacket,Denim,White,Loungewear,30.96,seamless_interior|velcro_closure|adjustable_hem
+336,Nightwear,Linen,Red,Sport,108.39,reflective_trim
+337,Jeans,Cotton-Blend,Black,Loungewear,17.58,none
+338,Hoodie,Fleece,Black,Sport,10.97,reflective_trim
+339,Skirt,Cotton-Blend,Red,Summer,73.3,magnetic_closure
+340,T-Shirt,Cotton,White,Formal,107.98,elastic_waist|one_handed_zipper_pull
+341,T-Shirt,Linen,Olive,Loungewear,46.28,wheelchair_back_length|side_seated_fit|elastic_waist
+342,Dress,Cotton-Blend,Maroon,Loungewear,50.53,elastic_waist
+343,Skirt,Jersey Knit,Grey,Loungewear,38.02,seamless_interior|simple_texture_id
+344,Hoodie,Wool-Blend,Red,Formal,53.85,velcro_closure|wide_arm_hole
+345,Trousers,Cotton-Blend,Navy,Winter,56.85,wide_arm_hole|velcro_closure
+346,Nightwear,Polyester-Blend,Charcoal,Formal,114.23,simple_texture_id
+347,Nightwear,Polyester-Blend,Maroon,Winter,23.69,reflective_trim|velcro_closure|prosthetic_leg_access_zip
+348,T-Shirt,Polyester-Blend,Black,Workwear,62.59,elastic_waist|front_opening|reflective_trim|tagless
+349,Hoodie,Fleece,Grey,Formal,97.58,removable_sleeve|tagless|adjustable_hem|prosthetic_leg_access_zip
+350,Shirt,Polyester-Blend,Navy,Winter,10.52,one_handed_zipper_pull|tagless
+351,Jeans,Fleece,Charcoal,Sport,68.66,extra_wide_leg_opening
+352,T-Shirt,Polyester-Blend,Maroon,Loungewear,36.88,high_contrast_pattern|side_seated_fit
+353,Nightwear,Jersey Knit,Red,Workwear,101.51,none
+354,Trousers,Fleece,Charcoal,Workwear,66.88,no_buttons|magnetic_closure|extra_wide_leg_opening|velcro_closure|one_handed_zipper_pull
+355,T-Shirt,Cotton-Blend,Red,Summer,38.5,adjustable_hem
+356,Nightwear,Jersey Knit,Olive,Sport,110.4,none
+357,Skirt,Wool-Blend,Charcoal,Workwear,72.57,none
+358,Shirt,Fleece,Red,Loungewear,70.07,elastic_waist
+359,Skirt,Jersey Knit,White,Casual,100.93,tagless|prosthetic_leg_access_zip|velcro_closure
+360,Dress,Jersey Knit,Black,Sport,9.23,elastic_waist
+361,Dress,Linen,Red,Summer,108.8,none
+362,Dress,Wool-Blend,Beige,Sport,74.91,elastic_waist|adjustable_hem|front_opening|side_seated_fit
+363,Jeans,Wool-Blend,White,Summer,82.48,extra_wide_leg_opening|side_seated_fit
+364,Hoodie,Jersey Knit,Black,Workwear,110.41,extra_wide_leg_opening
+365,Dress,Polyester-Blend,Grey,Summer,50.91,seamless_interior|side_seated_fit
+366,Trousers,Denim,White,Summer,13.26,removable_sleeve|magnetic_closure
+367,Jeans,Cotton,Royal Blue,Casual,90.66,velcro_closure
+368,Jacket,Denim,Red,Sport,75.55,none
+369,Nightwear,Polyester-Blend,Navy,Winter,51.6,no_buttons
+370,Jeans,Jersey Knit,Royal Blue,Workwear,47.84,magnetic_closure
+371,Shoes,Jersey Knit,Beige,Formal,41.28,no_buttons|seamless_interior|elastic_waist
+372,Dress,Cotton,Olive,Casual,61.32,wide_arm_hole|side_seated_fit
+373,Jeans,Denim,Red,Winter,112.92,seamless_interior|one_handed_zipper_pull|front_opening
+374,Shirt,Wool-Blend,Grey,Winter,32.07,extra_wide_leg_opening|removable_sleeve|magnetic_closure
+375,Trousers,Cotton,White,Sport,37.37,none
+376,Skirt,Polyester-Blend,Beige,Loungewear,13.76,wheelchair_back_length|wide_arm_hole
+377,Hoodie,Linen,Maroon,Summer,74.85,wide_arm_hole|one_handed_zipper_pull
+378,Shoes,Cotton-Blend,Black,Workwear,94.34,prosthetic_leg_access_zip
+379,Jacket,Linen,Red,Winter,16.42,none
+380,Jacket,Linen,Beige,Summer,63.5,adjustable_hem|elastic_waist|side_seated_fit
+381,Jeans,Fleece,Maroon,Summer,56.7,wide_arm_hole|reflective_trim|wheelchair_back_length
+382,Shirt,Polyester-Blend,Beige,Winter,99.74,front_opening
+383,Dress,Linen,Olive,Loungewear,85.81,tagless|magnetic_closure|elastic_waist
+384,Shirt,Denim,Beige,Winter,74.11,prosthetic_leg_access_zip
+385,Nightwear,Wool-Blend,Beige,Workwear,18.26,front_opening
+386,T-Shirt,Wool-Blend,Grey,Winter,23.32,wheelchair_back_length|seamless_interior|removable_sleeve|tagless
+387,Jeans,Jersey Knit,White,Winter,57.95,wide_arm_hole|seamless_interior|high_contrast_pattern|elastic_waist|velcro_closure
+388,Skirt,Jersey Knit,Beige,Sport,68.69,wheelchair_back_length
+389,Shirt,Cotton-Blend,Royal Blue,Formal,90.01,wheelchair_back_length|no_buttons|adjustable_hem|front_opening
+390,Nightwear,Linen,Olive,Casual,81.78,removable_sleeve|adjustable_hem|prosthetic_leg_access_zip
+391,Jacket,Polyester-Blend,Charcoal,Loungewear,103.11,tagless|reflective_trim|one_handed_zipper_pull
+392,Jacket,Fleece,Navy,Loungewear,62.82,tagless
+393,Trousers,Jersey Knit,Black,Casual,118.62,high_contrast_pattern
+394,Trousers,Fleece,Royal Blue,Summer,12.42,no_buttons|wide_arm_hole|one_handed_zipper_pull|prosthetic_leg_access_zip
+395,Skirt,Polyester-Blend,Olive,Loungewear,111.63,side_seated_fit|tagless|extra_wide_leg_opening
+396,Shirt,Cotton,Maroon,Formal,71.61,prosthetic_leg_access_zip
+397,Nightwear,Denim,Black,Winter,11.8,simple_texture_id|magnetic_closure|high_contrast_pattern|prosthetic_leg_access_zip
+398,Jacket,Linen,Grey,Casual,41.3,magnetic_closure|front_opening|removable_sleeve
+399,T-Shirt,Cotton,Red,Sport,116.76,prosthetic_leg_access_zip|removable_sleeve|wheelchair_back_length|side_seated_fit
+400,Trousers,Jersey Knit,Royal Blue,Sport,61.11,no_buttons|removable_sleeve|high_contrast_pattern|one_handed_zipper_pull
+401,Jeans,Denim,Grey,Formal,102.59,one_handed_zipper_pull|seamless_interior|prosthetic_leg_access_zip|magnetic_closure
+402,Shoes,Fleece,Navy,Sport,100.84,magnetic_closure
+403,Shirt,Polyester-Blend,Red,Summer,74.78,none
+404,Shoes,Cotton,Charcoal,Casual,21.5,reflective_trim
+405,T-Shirt,Cotton,Black,Winter,85.98,none
+406,Skirt,Wool-Blend,Olive,Casual,89.17,adjustable_hem
+407,Nightwear,Linen,Royal Blue,Winter,43.31,none
+408,Shirt,Linen,Olive,Winter,96.56,tagless|one_handed_zipper_pull
+409,Nightwear,Linen,Charcoal,Workwear,78.1,adjustable_hem
+410,Shoes,Cotton-Blend,Red,Casual,76.98,tagless|extra_wide_leg_opening|adjustable_hem|wide_arm_hole
+411,Hoodie,Denim,Charcoal,Formal,10.73,adjustable_hem
+412,Skirt,Linen,Grey,Casual,10.38,wide_arm_hole|removable_sleeve|one_handed_zipper_pull|seamless_interior
+413,Hoodie,Jersey Knit,White,Casual,67.24,reflective_trim|elastic_waist|one_handed_zipper_pull|simple_texture_id
+414,Shoes,Wool-Blend,Grey,Casual,97.46,magnetic_closure|side_seated_fit|adjustable_hem|extra_wide_leg_opening
+415,Jeans,Wool-Blend,Red,Sport,47.28,removable_sleeve|side_seated_fit|adjustable_hem|no_buttons|tagless
+416,Trousers,Cotton,Red,Sport,53.02,no_buttons|velcro_closure|adjustable_hem
+417,T-Shirt,Cotton-Blend,Black,Casual,78.28,high_contrast_pattern|extra_wide_leg_opening
+418,Hoodie,Linen,Navy,Sport,118.22,tagless|seamless_interior|high_contrast_pattern|removable_sleeve
+419,Skirt,Polyester-Blend,Royal Blue,Sport,54.79,high_contrast_pattern|seamless_interior|adjustable_hem
+420,Skirt,Fleece,Navy,Formal,90.61,prosthetic_leg_access_zip|elastic_waist
+421,Trousers,Cotton-Blend,Olive,Workwear,20.37,velcro_closure
+422,Shoes,Wool-Blend,Grey,Workwear,40.17,elastic_waist
+423,Jacket,Cotton,Grey,Loungewear,34.16,prosthetic_leg_access_zip
+424,Hoodie,Cotton-Blend,Olive,Loungewear,10.0,none
+425,Shirt,Denim,Beige,Workwear,55.91,velcro_closure|side_seated_fit|wide_arm_hole|high_contrast_pattern|seamless_interior
+426,Shoes,Cotton-Blend,Olive,Winter,84.12,removable_sleeve
+427,Hoodie,Jersey Knit,Olive,Formal,114.4,front_opening
+428,Trousers,Wool-Blend,Royal Blue,Summer,18.01,reflective_trim|velcro_closure|magnetic_closure
+429,Hoodie,Jersey Knit,White,Sport,106.46,seamless_interior|side_seated_fit
+430,Skirt,Polyester-Blend,White,Casual,60.35,wide_arm_hole|velcro_closure|front_opening|reflective_trim
+431,Shoes,Wool-Blend,Navy,Summer,26.71,no_buttons|reflective_trim
+432,Shirt,Cotton-Blend,Olive,Loungewear,33.95,elastic_waist|no_buttons|high_contrast_pattern|velcro_closure|front_opening
+433,Shoes,Linen,Maroon,Workwear,80.76,velcro_closure|magnetic_closure|side_seated_fit|prosthetic_leg_access_zip
+434,Jacket,Jersey Knit,Black,Summer,65.42,one_handed_zipper_pull|no_buttons
+435,Hoodie,Jersey Knit,Maroon,Summer,27.77,front_opening
+436,Jacket,Wool-Blend,Navy,Casual,28.88,elastic_waist
+437,Jacket,Linen,Maroon,Workwear,47.21,front_opening|magnetic_closure|high_contrast_pattern
+438,Jacket,Cotton-Blend,Black,Formal,116.54,none
+439,Dress,Denim,White,Casual,111.91,elastic_waist|tagless|extra_wide_leg_opening|velcro_closure
+440,Jeans,Jersey Knit,Navy,Summer,27.48,prosthetic_leg_access_zip|one_handed_zipper_pull|no_buttons|extra_wide_leg_opening|reflective_trim
+441,Shirt,Cotton-Blend,Royal Blue,Loungewear,92.92,extra_wide_leg_opening
+442,Shirt,Cotton,Maroon,Loungewear,25.24,removable_sleeve|tagless|elastic_waist
+443,Shoes,Fleece,Grey,Casual,33.14,elastic_waist|removable_sleeve|seamless_interior
+444,Shoes,Jersey Knit,Maroon,Loungewear,68.14,prosthetic_leg_access_zip
+445,Dress,Polyester-Blend,Beige,Sport,72.97,extra_wide_leg_opening|front_opening
+446,Hoodie,Fleece,Grey,Loungewear,106.28,none
+447,Dress,Jersey Knit,Maroon,Winter,22.51,removable_sleeve
+448,Dress,Jersey Knit,Grey,Winter,115.03,one_handed_zipper_pull|reflective_trim|removable_sleeve|wheelchair_back_length
+449,T-Shirt,Jersey Knit,Maroon,Loungewear,98.67,seamless_interior|removable_sleeve|high_contrast_pattern|simple_texture_id
+450,Shirt,Cotton-Blend,Black,Loungewear,69.7,extra_wide_leg_opening|wheelchair_back_length|reflective_trim
+451,Trousers,Cotton,Black,Formal,53.75,none
+452,Trousers,Linen,Red,Formal,37.09,wide_arm_hole
+453,Nightwear,Cotton,Beige,Summer,63.54,velcro_closure|wheelchair_back_length|one_handed_zipper_pull
+454,Hoodie,Cotton-Blend,Charcoal,Summer,32.66,none
+455,Jeans,Linen,Black,Loungewear,16.53,reflective_trim|front_opening|prosthetic_leg_access_zip
+456,Shirt,Cotton,Red,Formal,63.46,prosthetic_leg_access_zip|extra_wide_leg_opening|high_contrast_pattern|wide_arm_hole
+457,Jacket,Denim,White,Sport,74.35,no_buttons|front_opening
+458,Trousers,Fleece,Maroon,Casual,46.95,no_buttons|seamless_interior|side_seated_fit
+459,Dress,Linen,Grey,Formal,71.36,prosthetic_leg_access_zip|velcro_closure|extra_wide_leg_opening
+460,Shirt,Jersey Knit,Royal Blue,Winter,106.41,wide_arm_hole
+461,Jacket,Cotton,Charcoal,Summer,81.75,tagless|velcro_closure|reflective_trim
+462,Jacket,Denim,Grey,Workwear,105.14,wheelchair_back_length|elastic_waist|simple_texture_id|velcro_closure
+463,Skirt,Polyester-Blend,Navy,Sport,101.75,side_seated_fit|removable_sleeve|seamless_interior
+464,Jacket,Jersey Knit,Red,Formal,84.18,front_opening|one_handed_zipper_pull|high_contrast_pattern
+465,Nightwear,Cotton,Navy,Winter,92.3,removable_sleeve|elastic_waist
+466,Hoodie,Denim,Charcoal,Workwear,106.66,simple_texture_id
+467,T-Shirt,Polyester-Blend,Red,Workwear,11.28,front_opening|velcro_closure|high_contrast_pattern|one_handed_zipper_pull
+468,Nightwear,Wool-Blend,Royal Blue,Casual,22.43,wheelchair_back_length|magnetic_closure|simple_texture_id
+469,Jeans,Jersey Knit,Maroon,Casual,91.27,wheelchair_back_length
+470,Trousers,Cotton,Navy,Formal,99.61,adjustable_hem
+471,Jeans,Polyester-Blend,Navy,Winter,64.84,one_handed_zipper_pull|extra_wide_leg_opening|adjustable_hem
+472,Trousers,Cotton,Royal Blue,Winter,40.15,none
+473,T-Shirt,Cotton-Blend,Black,Formal,117.89,high_contrast_pattern|velcro_closure
+474,Shoes,Denim,Red,Loungewear,37.1,wide_arm_hole|side_seated_fit
+475,Skirt,Polyester-Blend,Beige,Casual,68.48,prosthetic_leg_access_zip|no_buttons
+476,Shoes,Cotton-Blend,Charcoal,Casual,19.98,prosthetic_leg_access_zip|adjustable_hem|magnetic_closure
+477,Dress,Linen,Charcoal,Casual,68.62,side_seated_fit|simple_texture_id|adjustable_hem
+478,Shirt,Wool-Blend,Grey,Workwear,46.29,wheelchair_back_length|no_buttons|prosthetic_leg_access_zip|one_handed_zipper_pull|extra_wide_leg_opening
+479,Skirt,Linen,Grey,Sport,112.39,front_opening|tagless
+480,Jacket,Cotton,Maroon,Summer,112.97,none
+481,Shirt,Cotton,Charcoal,Workwear,15.6,reflective_trim|tagless|adjustable_hem
+482,Nightwear,Cotton-Blend,Red,Formal,87.32,prosthetic_leg_access_zip
+483,Jacket,Denim,Olive,Winter,73.2,none
+484,Trousers,Fleece,Grey,Formal,77.54,removable_sleeve
+485,Shoes,Linen,White,Casual,105.61,none
+486,T-Shirt,Linen,Navy,Sport,116.51,seamless_interior|velcro_closure|no_buttons|high_contrast_pattern|wide_arm_hole
+487,Jacket,Jersey Knit,Grey,Winter,22.57,adjustable_hem|one_handed_zipper_pull|elastic_waist
+488,Shoes,Cotton-Blend,White,Sport,10.75,front_opening|adjustable_hem|wheelchair_back_length
+489,Hoodie,Wool-Blend,Beige,Workwear,44.24,none
+490,Shoes,Jersey Knit,Beige,Loungewear,94.29,wheelchair_back_length|tagless
+491,Jeans,Denim,Olive,Sport,57.94,seamless_interior|magnetic_closure|high_contrast_pattern
+492,Trousers,Jersey Knit,Royal Blue,Loungewear,119.68,simple_texture_id
+493,Dress,Wool-Blend,Maroon,Casual,58.56,no_buttons|simple_texture_id
+494,Shoes,Cotton-Blend,Red,Summer,97.02,seamless_interior
+495,T-Shirt,Cotton-Blend,Black,Summer,32.73,tagless|one_handed_zipper_pull|wide_arm_hole
+496,Nightwear,Cotton,Charcoal,Workwear,84.22,none
+497,Nightwear,Linen,Maroon,Workwear,38.61,prosthetic_leg_access_zip|one_handed_zipper_pull|velcro_closure
+498,Shoes,Linen,Grey,Loungewear,24.92,elastic_waist|tagless|simple_texture_id|one_handed_zipper_pull|adjustable_hem
+499,T-Shirt,Polyester-Blend,Beige,Workwear,113.68,removable_sleeve|reflective_trim
+500,Shoes,Fleece,Maroon,Formal,79.51,magnetic_closure|front_opening
