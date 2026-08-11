@@ -201,17 +201,4 @@ research quality:
 
 ---
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE).
-
-## 🙋 Author's Note (for final-year submission)
-
-This project demonstrates: dataset design for an under-served domain, feature
-engineering, a hybrid (content-based + learned) recommender architecture,
-offline evaluation methodology, and a deployable interactive demo — the full
-applied-ML pipeline end to end. Feel free to cite the accessibility feature
-taxonomy and disability→feature mapping in your project report; it was
-compiled from general adaptive-clothing design guidance and can be validated
-further with disability advocacy groups or occupational therapists for
-academic rigor.
